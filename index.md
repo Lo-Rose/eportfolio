@@ -4,7 +4,7 @@
 
 My ePortfolio reflects my knowledge and skills gained through the years of studying Computer Science through the program at Southern New Hampshire University. It displays my triumph and continued success in the program through my work and through achieved awards such as President List's and honor roll. My ePortfolio was carefully designed in a professional manner, showing both visual and technical written aspects of my chosen artifacts, displaying my capacities and abilities in a logically, technically sound, and professional manner with a specific technical audience and context in mind.
 
-### Table of Content
+### Table of Contents
 
 
 &nbsp;[Refinement Plan and Code Review](#code-review "Refinement Plan and Code Review")<br/>
