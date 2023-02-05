@@ -115,8 +115,9 @@ The artifact and its enhancements implement appropriate variables, operators, me
 
 <div style="text-align: center;">
     <img src="include/images/zoocode.jpg" width="480px" title="Zoo Monitoring System Code Snippet" />
-    <p><em>Figure 4 - Zoo Monitoring System Code Snippet</em></p>
+    <p><em>Figure 5 - Zoo Monitoring System Code Snippet</em></p>
 </div>
+
 
 The course objectives planned in Module One were met with the implemented enhancements of the artifact. I currently do not have updates to my outcome-coverage plans, as the artifact still displays originally discussed Computer Science program outcomes.
 
