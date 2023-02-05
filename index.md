@@ -114,7 +114,7 @@ The artifact was improved by implementing the Monitoring System (Option 2- Monit
 The artifact and its enhancements implement appropriate variables, operators, methods, and classes as they are used in object-oriented programming for developing successful programs. It also utilizes appropriate syntax and conventions in terms of their best practice and use in programming. Lastly, it displays a computing solution that solves a given problem using algorithmic principles and computer science practices and standards appropriate to its solution, while managing the trade-offs involved in design choices.
 
 <div style="text-align: center;">
-    <img src="include/images/zoocode.jpg" width="480px" title="Zoo Monitoring System Code Snippet" />
+    <img src="include/images/zoocode.JPG" width="480px" title="Zoo Monitoring System Code Snippet" />
     <p><em>Figure 5 - Zoo Monitoring System Code Snippet</em></p>
 </div>
 
@@ -127,7 +127,7 @@ To reflect on the enhancement process of the artifact, I reinforced my knowledge
 ### _Artifact Algorithms and Data Structures_
 
 <div style="text-align: center;">
-	<a href="IT145" title="Artifact: Algorithms and Data Structure">
+	<a href="IT145" title="Artifact Two: Algorithms and Data Structure">
 		<img src="https://img.shields.io/badge/Artifact-Algorithms_and_Data_Structure-green.svg?style=for-the-badge&logo=thealgorithms" alt="Artifact: Algorithms and Data Structure" />
 	</a>
 </div>
