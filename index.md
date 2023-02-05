@@ -20,7 +20,7 @@ My ePortfolio reflects my knowledge and skills gained through the years of study
 
 
 
-<img id="codereview" src="include/images/codereviewbanner.jpg" alt="Refinement Plan and Code Review" title="Refinement Plan and Code Review" />
+<img id="codereview" src="include/images/codereviewbanner.png" alt="Refinement Plan and Code Review" title="Refinement Plan and Code Review" />
 
 ---------
 
