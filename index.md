@@ -20,7 +20,7 @@ My ePortfolio reflects my knowledge and skills gained through the years of study
 
 
 
-<img id="codereview" src="assets/img/codereviewbanner.jpg" alt="Refinement Plan and Code Review" title="Refinement Plan and Code Review" />
+<img id="codereview" src="include/images/codereviewbanner.jpg" alt="Refinement Plan and Code Review" title="Refinement Plan and Code Review" />
 
 ---------
 
@@ -29,7 +29,7 @@ As a software engineer, I know that code reviews are critical aspects of softwar
  In the professional world of programming, code reviews are a staple of quality assurance. Code reviews help developers to learn new techniques and learn the code base, improving their skill sets. It helps to expose vulnerabilities and find ways to increase security and fix those vulnerabilities. It is vital to computer science professionals as it implements a different perspective and adds objectivity. Additionally, code reviews embrace team cohesiveness, bringing people together and nurturing collaboration.
 
 <div style="text-align: center;">
-    <img src="assets/img/exhibit1.jpg" width="720px" title="OpenGL 3D Visualization C++ Code" />
+    <img src="include/images/exhibit1.jpg" width="720px" title="OpenGL 3D Visualization C++ Code" />
     <p><em>Figure 1 - OpenGL 3D Visualization C++ Code Snippet</em></p>
 </div>
 
@@ -53,7 +53,7 @@ Exercising a code review on my selected artifacts for Software Design and Engine
 
 <br/>
 
-<img id="softwaredesign" src="assets/img/softwaredesignandengineering.png" alt="Software Design and Engineering" title="Software Design and Engineering" />
+<img id="softwaredesign" src="include/images/softwaredesignandengineering.png" alt="Software Design and Engineering" title="Software Design and Engineering" />
 
 -----------
 
@@ -62,7 +62,7 @@ The artifact selected for the Software Design and Engineering category is my Ope
 I selected this artifact because it covers all aspects of the Software Design and Engineering process. It consists of the design and implementation of three-dimensional objects using application programming interface (API) libraries and computer graphic development best practices. It covers the creation of interactive graphics applications, that respond to input devices, allowing for navigation of said three-dimensional objects and through three-dimensional space. It also employs best practices in formatting, commenting, and functional logic to produce reliable computer programs, and defends program development decisions for their effectiveness in meeting project requirements. Additionally, I selected this artifact because it was one of my biggest and most challenging accomplishments through my coursework.
 
 <div style="text-align: center;">
-    <img src="assets/img/IT145-UserManagement.jpg" width="480px" title="User Manager Table Screenshot" />
+    <img src="include/images/IT145-UserManagement.jpg" width="480px" title="User Manager Table Screenshot" />
     <p><em>Figure 2 - OpenGL 3D Graphics Project</em></p>
 </div>
 
@@ -93,21 +93,21 @@ To reflect on the enhancement process of the artifact, I reinforced my knowledge
 
 <br/>
 
-<img id="algorithms" src="assets/img/algorithmsdatastructures.jpg" alt="Algorithms and Data Structure" title="Algorithms and Data Structure" />
+<img id="algorithms" src="include/images/algorithmsdatastructures.jpg" alt="Algorithms and Data Structure" title="Algorithms and Data Structure" />
 
 --------
 
 The artifact selected for the Algorithms and Data Structures category is my Zoo Monitoring System. The project’s purpose is to develop an authentication and authorization system that manages user and administrative access and data for a zoo. The project was created originally in October of 2018 as part of the IT-145 Foundations in Application Development computer science course. This program is developed in Java programming running in Apache Netbeans v16 IDE. It was originally written in the 8.2 version. The enhancement for this project was the modules for the monitoring system- Option 2 of the IT-145 Final Project Guidelines and Rubric.
 
 <div style="text-align: center;">
-    <img src="assets/img/option1.jpg" width="480px" title="Rubric for Option 1 Addition IT-145" />
+    <img src="include/images/option1.jpg" width="480px" title="Rubric for Option 1 Addition IT-145" />
     <p><em>Figure 3 - Rubric for Option 1 Addition IT-145</em></p>
 </div>
 
 The artifact was selected because it displays a solid understanding of algorithms and data structures to combine complex systems, one for authentication, one for authorization, and dashboards to display information regarding animals, habitats, or user management based on the logged in user’s role. After the user logs in successfully, they are only able to see menus and data specific to their role.
 
 <div style="text-align: center;">
-    <img src="assets/img/zoologin.jpg" width="480px" title="Zoo Monitoring System Login" />
+    <img src="include/images/zoologin.jpg" width="480px" title="Zoo Monitoring System Login" />
     <p><em>Figure 4 - Zoo Monitoring System Login</em></p>
 </div>
 
@@ -117,7 +117,7 @@ The artifact was improved by implementing the Monitoring System (Option 2- Monit
 The artifact and its enhancements implement appropriate variables, operators, methods, and classes as they are used in object-oriented programming for developing successful programs. It also utilizes appropriate syntax and conventions in terms of their best practice and use in programming. Lastly, it displays a computing solution that solves a given problem using algorithmic principles and computer science practices and standards appropriate to its solution, while managing the trade-offs involved in design choices.
 
 <div style="text-align: center;">
-    <img src="assets/img/zoocode.jpg" width="480px" title="Zoo Monitoring System Code Snippet" />
+    <img src="include/images/zoocode.jpg" width="480px" title="Zoo Monitoring System Code Snippet" />
     <p><em>Figure 4 - Zoo Monitoring System Code Snippet</em></p>
 </div>
 
@@ -144,14 +144,14 @@ To reflect on the enhancement process of the artifact, I reinforced my knowledge
 
 <br/>
 
-<img id="databases" src="assets/img/databases.png" alt="Databases" title="Databases" />
+<img id="databases" src="include/images/databases.png" alt="Databases" title="Databases" />
 
 As described in the [artifact code review](CodeReview "Refinement Plan and Code Review"), the artifact selected for the databases category is the **Salvare Search for Rescue Web App**. The web application aims to develop a web interface that works with an existing database from animal shelters to identify and categorize available dogs to train for different rescues. The web app was planned, designed, and developed for the CS340 Client/Server Development computer science course. The application is developed in Python with the Dash framework and the non-relational database MongoDB. The integration of Python and MongoDB is through the python driver PyMongo. The application can run in Jupyter Notebook as a test tool and the computer terminal with an internet browser. The application's functionality involves a CSV data file of existing dogs in shelters to import into MongoDB, the import of dependencies such as Python PyMongo driver, Python libraries, Dash framework, and a Python source code and CRUD module to manipulate the data imported into MongoDB.
 
 This artifact involved a multi-tier application with a Model View Controller (MVC) and RESTful protocol design to extend the HTTP protocol to provide an application programming interface (API). The most attractive concept of the MVC pattern is a separation of concerns. The model's job is to manage the data, MongoDB, and Python data structures. The view's job is to decide what the user sees and how on their screen, Dash framework. The controller's responsibility is to pull, modify, and provide data to the user, the PyMongo driver. Each record in the MongoDB database is a document described in BSON, a binary representation of the data retrieved by the web app in a JSON format. When the main app file is executed in the computer terminal, the user opens an internet browser new tab pointing to the corresponding app address. The browser starts loading and generates the client-facing web application dashboard like the following screen:
 
 <div style="text-align: center;">
-    <img src="assets/img/untitled.jpg" width="800px" title="Web App Client/Database" />
+    <img src="include/images/untitled.jpg" width="800px" title="Web App Client/Database" />
     <p><em>---</em></p>
 </div>
 
