@@ -90,21 +90,21 @@ To reflect on the enhancement process of the artifact, I reinforced my knowledge
 
 <br/>
 
-<img id="algorithms" src="include/images/algorithmsdatastructures.jpg" alt="Algorithms and Data Structure" title="Algorithms and Data Structure" />
+<img id="algorithms" src="include/images/algorithmsdatastructures.png" alt="Algorithms and Data Structure" title="Algorithms and Data Structure" />
 
 --------
 
 The artifact selected for the Algorithms and Data Structures category is my Zoo Monitoring System. The project’s purpose is to develop an authentication and authorization system that manages user and administrative access and data for a zoo. The project was created originally in October of 2018 as part of the IT-145 Foundations in Application Development computer science course. This program is developed in Java programming running in Apache Netbeans v16 IDE. It was originally written in the 8.2 version. The enhancement for this project was the modules for the monitoring system- Option 2 of the IT-145 Final Project Guidelines and Rubric.
 
 <div style="text-align: center;">
-    <img src="include/images/option1.jpg" width="480px" title="Rubric for Option 1 Addition IT-145" />
+    <img src="include/images/option1.png" width="480px" title="Rubric for Option 1 Addition IT-145" />
     <p><em>Figure 3 - Rubric for Option 1 Addition IT-145</em></p>
 </div>
 
 The artifact was selected because it displays a solid understanding of algorithms and data structures to combine complex systems, one for authentication, one for authorization, and dashboards to display information regarding animals, habitats, or user management based on the logged in user’s role. After the user logs in successfully, they are only able to see menus and data specific to their role.
 
 <div style="text-align: center;">
-    <img src="include/images/zoologin.jpg" width="480px" title="Zoo Monitoring System Login" />
+    <img src="include/images/zoologin.png" width="480px" title="Zoo Monitoring System Login" />
     <p><em>Figure 4 - Zoo Monitoring System Login</em></p>
 </div>
 
