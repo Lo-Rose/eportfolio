@@ -53,7 +53,7 @@ Exercising a code review on my selected artifacts for Software Design and Engine
 
 <br/>
 
-<img id="softwaredesign" src="include/images/softwaredesignandengineering.png" alt="Software Design and Engineering" title="Software Design and Engineering" />
+<img id="softwaredesign" src="include/images/softwaredesign.jpg" alt="Software Design and Engineering" title="Software Design and Engineering" />
 
 -----------
 
@@ -62,7 +62,7 @@ The artifact selected for the Software Design and Engineering category is my Ope
 I selected this artifact because it covers all aspects of the Software Design and Engineering process. It consists of the design and implementation of three-dimensional objects using application programming interface (API) libraries and computer graphic development best practices. It covers the creation of interactive graphics applications, that respond to input devices, allowing for navigation of said three-dimensional objects and through three-dimensional space. It also employs best practices in formatting, commenting, and functional logic to produce reliable computer programs, and defends program development decisions for their effectiveness in meeting project requirements. Additionally, I selected this artifact because it was one of my biggest and most challenging accomplishments through my coursework.
 
 <div style="text-align: center;">
-    <img src="include/images/IT145-UserManagement.jpg" width="480px" title="User Manager Table Screenshot" />
+    <img src="include/images/opengl.jpg" width="480px" title="OpenGL 3D Graphics Project" />
     <p><em>Figure 2 - OpenGL 3D Graphics Project</em></p>
 </div>
 
