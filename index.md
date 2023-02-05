@@ -17,9 +17,6 @@ My ePortfolio reflects my knowledge and skills gained through the years of study
 &nbsp;&nbsp;&nbsp;&nbsp;[_Artifact Databases_](#artifact-databases "Artifact Databases")<br/><br/>
 
 
-
-
-
 <img id="codereview" src="include/images/codereviewbanner.png" alt="Refinement Plan and Code Review" title="Refinement Plan and Code Review" />
 
 ---------
