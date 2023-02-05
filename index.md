@@ -26,7 +26,7 @@ As a software engineer, I know that code reviews are critical aspects of softwar
  In the professional world of programming, code reviews are a staple of quality assurance. Code reviews help developers to learn new techniques and learn the code base, improving their skill sets. It helps to expose vulnerabilities and find ways to increase security and fix those vulnerabilities. It is vital to computer science professionals as it implements a different perspective and adds objectivity. Additionally, code reviews embrace team cohesiveness, bringing people together and nurturing collaboration.
 
 <div style="text-align: center;">
-    <img src="include/images/exhibit1.jpg" width="720px" title="OpenGL 3D Visualization C++ Code" />
+    <img src="include/images/exhibit1.JPG" width="720px" title="OpenGL 3D Visualization C++ Code" />
     <p><em>Figure 1 - OpenGL 3D Visualization C++ Code Snippet</em></p>
 </div>
 
@@ -59,7 +59,7 @@ The artifact selected for the Software Design and Engineering category is my Ope
 I selected this artifact because it covers all aspects of the Software Design and Engineering process. It consists of the design and implementation of three-dimensional objects using application programming interface (API) libraries and computer graphic development best practices. It covers the creation of interactive graphics applications, that respond to input devices, allowing for navigation of said three-dimensional objects and through three-dimensional space. It also employs best practices in formatting, commenting, and functional logic to produce reliable computer programs, and defends program development decisions for their effectiveness in meeting project requirements. Additionally, I selected this artifact because it was one of my biggest and most challenging accomplishments through my coursework.
 
 <div style="text-align: center;">
-    <img src="include/images/opengl.jpg" width="480px" title="OpenGL 3D Graphics Project" />
+    <img src="include/images/OpenGL.JPG" width="480px" title="OpenGL 3D Graphics Project" />
     <p><em>Figure 2 - OpenGL 3D Graphics Project</em></p>
 </div>
 
@@ -127,7 +127,7 @@ To reflect on the enhancement process of the artifact, I reinforced my knowledge
 
 <div style="text-align: center;">
 	<a href="IT145" title="Artifact: Algorithms and Data Structure">
-		<img src="https://img.shields.io/badge/Artifact-Algorithms_and_Data_Structure-orange.svg?style=for-the-badge&logo=thealgorithms" alt="Artifact: Algorithms and Data Structure" />
+		<img src="https://img.shields.io/badge/Artifact-Algorithms_and_Data_Structure-green.svg?style=for-the-badge&logo=thealgorithms" alt="Artifact: Algorithms and Data Structure" />
 	</a>
 </div>
 
@@ -143,9 +143,6 @@ To reflect on the enhancement process of the artifact, I reinforced my knowledge
 
 <img id="databases" src="include/images/databases.png" alt="Databases" title="Databases" />
 
-As described in the [artifact code review](CodeReview "Refinement Plan and Code Review"), the artifact selected for the databases category is the **Salvare Search for Rescue Web App**. The web application aims to develop a web interface that works with an existing database from animal shelters to identify and categorize available dogs to train for different rescues. The web app was planned, designed, and developed for the CS340 Client/Server Development computer science course. The application is developed in Python with the Dash framework and the non-relational database MongoDB. The integration of Python and MongoDB is through the python driver PyMongo. The application can run in Jupyter Notebook as a test tool and the computer terminal with an internet browser. The application's functionality involves a CSV data file of existing dogs in shelters to import into MongoDB, the import of dependencies such as Python PyMongo driver, Python libraries, Dash framework, and a Python source code and CRUD module to manipulate the data imported into MongoDB.
-
-This artifact involved a multi-tier application with a Model View Controller (MVC) and RESTful protocol design to extend the HTTP protocol to provide an application programming interface (API). The most attractive concept of the MVC pattern is a separation of concerns. The model's job is to manage the data, MongoDB, and Python data structures. The view's job is to decide what the user sees and how on their screen, Dash framework. The controller's responsibility is to pull, modify, and provide data to the user, the PyMongo driver. Each record in the MongoDB database is a document described in BSON, a binary representation of the data retrieved by the web app in a JSON format. When the main app file is executed in the computer terminal, the user opens an internet browser new tab pointing to the corresponding app address. The browser starts loading and generates the client-facing web application dashboard like the following screen:
 
 <div style="text-align: center;">
     <img src="include/images/untitled.jpg" width="800px" title="Web App Client/Database" />
