@@ -177,7 +177,7 @@ Exercising a code review on my selected artifacts for Software Design and Engine
 ### _Code Review Videos_
 
 <div style="text-align: center;">
-	<a href="CodeReview" title="Code Review">
+	<a href="codereview" title="Code Review">
 		<img src="https://img.shields.io/badge/review-Refinement_Plan and_Code_Review-magenta.svg?style=for-the-badge&logo=codereview" alt="Refinement Plan and Code Review" />
 	</a>
 </div>
@@ -216,7 +216,7 @@ To reflect on the enhancement process of the artifact, I reinforced my knowledge
 
 
 <div style="text-align: center;">
-	<a href="CS360" title="Artifact: Software Design and Engineering">
+	<a href="CS330" title="Artifact: Software Design and Engineering">
 		<img src="https://img.shields.io/badge/Artifact-Software_Design_and_Engineering-yellow.svg?style=for-the-badge&logo=paloaltosoftware" alt="Artifact: Software Design and Engineering" />
 	</a>
 </div>
