@@ -75,6 +75,12 @@ Throughout the program, I learned and improved many valuable skills that make me
 |MySQL|  
 |MongoDB|  
 
+<div style="text-align: right;">
+    <a href="#">
+        <button style="font-size: 10px; font-weight: 500; background: #BF40BF; color: #ffffff; border-radius: 50px; border-style: solid; border-color: #00000; padding: 5px 5px;">Back to Top &#8593;</button>
+    </a>
+</div>
+
 #### Course Specifics and Portfolio Considerations
 
 In each course throughout the Computer Science program, I have acquired the knowledge and skills necessary for me to excel in any job in the related field. While I was already experienced in the field prior to my coursework, each course had a substantial impact on me and my knowledgebase. I not only strengthened my current skills but learned many new skills and specifics to security and coding best practices/standards. Ultimately, I am now able to incorporate what I have learned and improved on into my selected and non-selected artifacts, where all of my skills learned from the courses are demonstrated and showcased. 
@@ -125,6 +131,12 @@ In CS-340 Client/Server Development and DAT-220 Fundamentals of Data Mining help
 
 The course artifacts chosen for the code review and showcased for the key categories of Software Design and Engineering, Algorithms and Data Structure, and Databases allow me to demonstrate what I have learned throughout the program. I believe my enhancements made to these three artifacts represent how much I have grown and display my competency in the program.
 
+<div style="text-align: right;">
+    <a href="#">
+        <button style="font-size: 10px; font-weight: 500; background: #BF40BF; color: #ffffff; border-radius: 50px; border-style: solid; border-color: #00000; padding: 5px 5px;">Back to Top &#8593;</button>
+    </a>
+</div>
+
 #### Looking to the Future
 
 The Computer Science program at SNHU has helped me flourish and strive for greatness as a professional in the field. It has prepared me for a fulfilling career where I can make a solid contribution wherever I go. Looking at my well-developed ePortfolio, displaying my many academic achievements, I am happy to say I have completed my best work and I could not be more proud of myself.
@@ -135,7 +147,11 @@ I designed and evaluated computing solutions that solve given problems using alg
 
 I am ecstatic to set goals for myself and continue to grow in this field. There is nothing I cannot logically solve when I put my mind to it. Determination and dedication are key. As an enthusiastic learner, I love to dive in and learn new things and do so quickly. I will continue to learn more as time goes by and look forward to each new endeavor to come. 
 
-
+<div style="text-align: right;">
+    <a href="#">
+        <button style="font-size: 10px; font-weight: 500; background: #BF40BF; color: #ffffff; border-radius: 50px; border-style: solid; border-color: #00000; padding: 5px 5px;">Back to Top &#8593;</button>
+    </a>
+</div>
 
 
 <img id="codereview" src="include/images/codereviewbanner.png" alt="Refinement Plan and Code Review" title="Refinement Plan and Code Review" />
