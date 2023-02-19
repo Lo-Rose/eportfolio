@@ -282,12 +282,34 @@ To reflect on the enhancement process of the artifact, I reinforced my knowledge
 
 <br/>
 
-<img id="databases" src="include/images/databases.png" alt="Databases" title="Databases" />
+<img id="databases" src="include/images/databases.png" alt="Databases" title="Databases" /> </br>
+
+
+The artifact selected for the databases category is the Grazioso Salvare Animal Shelter Search Dashboard. This web application was designed for my computer science course, CS-340: Client/Server Development.  This web application is used with an existing database from animal shelters to categorize different animals (cats and dogs) by various and multiple factors. The application is developed in Python with Dash framework and with MongoDB, using PyMongo. This project best displays my knowledge with databases and how to utilize them. The project was originally developed on the Apporto platform, a virtual Linux system for student access. I enhanced this project by recreating it and using it on my own local machine running Windows Operating System.
+
+The artifact was selected because it involves the development of a multi-tiered web application that utilizes the PyMongo driver and use of Python’s dash framework to integrate with a MongoDB database containing the data for the animal shelter. The web application’s functionality involves an imported “.csv.” data file of existing animals in the shelter and that data file is manipulated through the use of python libraries, dash framework, python source code, and my created CRUD module. The application can be run in Jupyter Notebook or a CLI running alongside a web browser to display the application. 
 
 
 <div style="text-align: center;">
-    <img src="include/images/untitled.jpg" width="800px" title="Web App Client/Database" />
-    <p><em>---</em></p>
+    <img src="include/images/webbapp.jpg" width="800px" title="Web App Client/Database" />
+    <p><em>Figure 7 - Grazioso Salvare Web App Client/Database Dashboard </em></p>
+</div>
+
+
+The artifact involves validating input data and data structure when accessing database records. The source code is clearly and effectively documented, following coding best practices. It is easy to read and maintain, following the Python standards. The created CRUD module is imported by other Python scripts showing its reusability. 
+ 
+<div style="text-align: center;">
+    <img src="include/images/crud1.jpg" width="800px" title="Web App Client/Database" />
+    <p><em>Figure 8 - CRUD Module Code </em></p>
+</div>
+
+The implemented data structure solves the given problem using algorithmic principles and computer science practices and standards appropriate to its solution while management trade-offs involved in design choices. 
+
+The artifacts enhancements were successful. It aimed to recreate the web application in Windows Operating System environment. The process was challenging because the application was initially developed and ran on a Linux Environment. This meant I had to start from scratch, installing and setting up each driver and tool. I did struggle with getting the pie chart and map to display due to a callback issue, but was able to solve my issue and get the application running smoothly. The setup process and the code updates because of updated drivers and software show my ability to use well- founded and innovative techniques, skills, and tools in computing practices to implement computer solutions that deliver value and accomplish industry-specific goals. 
+ 
+ <div style="text-align: center;">
+    <img src="include/images/webappy.jpg" width="800px" title="Web App Client/Database" />
+    <p><em>Figure 9 - Dashboard App Python Code </em></p>
 </div>
 
 
