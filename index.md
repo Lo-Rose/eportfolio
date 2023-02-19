@@ -188,7 +188,8 @@ Exercising a code review on my selected artifacts for Software Design and Engine
     </a>
 </div>
 
-<br/>
+
+
 
 <img id="softwaredesign" src="include/images/softwaredesign.jpg" alt="Software Design and Engineering" title="Software Design and Engineering" />
 
