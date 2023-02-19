@@ -37,7 +37,7 @@ Applying best practices and standards to  all of my work helps me to develop wel
 I have learned and utilized the Software Development Lifecycle (SDLC) in many projects, including large-scale projects as part of a team and as an individual. There are many factors that go into planning a large project and coordinating with team members. Understanding the client’s needs as part of the SDLC means taking those requirements and implementing them into a flowchart, pseudocode, or Alpha prototype (Game Development) that results in a Final Prototype or Program. For example, in GAM-305 I worked as the Team Lead and Art on a 5 person team and we used the SDLC for Alpha prototype, Beta prototype, and the Final Code release. We utilized both black box and white box testing through each phase. We collaborated through discord, using version control with Git and Bitbucket. 
 
 <div style="text-align: center;">
-    <img src="include/images/virushunter.jpg" width="720px" title="Virus Hunter" />
+    <img src="include/images/virushunter.jpg" width="520px" title="Virus Hunter" />
     <p><em>Figure 1 - GAM-305 Project: Virus Hunter</em></p>
 </div>
 
@@ -45,7 +45,7 @@ I have learned and utilized the Software Development Lifecycle (SDLC) in many pr
 I developed a Testing and Implementation Plan with a Bug Log in an Excel spreadsheet for us to stay organized: <a href="https://snhu-my.sharepoint.com/:x:/r/personal/lauren_lindhurst_snhu_edu/Documents/Gam305-TestPlanDocument.xlsx?d=w19665317088542769be89672e00aea2e&csf=1&web=1&e=10Eyvn" target="_blank">Gam305-TestPlanDocument.xlsx</a>. We also utilized the Bitbucket’s wiki feature throughout the process: <a href="https://bitbucket.org/LaurenRose/gam-305_project/wiki/Home" target="_blank">GAM-305 Project's Wiki</a>. This team project was an amazing experience to work remotely, collaborating with like minded individuals to meet the requirements of the Game Design Document and produce a successful game, superseding the expectations of the client (stakeholders). This not only increased my communication skills, but also improved my creativity and time management abilities.
 
 <div style="text-align: center;">
-    <img src="include/images/virushunter2.jpg" width="720px" title="Virus Hunter Game Play" />
+    <img src="include/images/virushunter2.jpg" width="520px" title="Virus Hunter Game Play" />
     <p><em>Figure 2 - GAM-305 Project: Virus Hunter - Gameplay</em></p>
 </div>
 
@@ -166,7 +166,7 @@ As a software engineer, I know that code reviews are critical aspects of softwar
  In the professional world of programming, code reviews are a staple of quality assurance. Code reviews help developers to learn new techniques and learn the code base, improving their skill sets. It helps to expose vulnerabilities and find ways to increase security and fix those vulnerabilities. It is vital to computer science professionals as it implements a different perspective and adds objectivity. Additionally, code reviews embrace team cohesiveness, bringing people together and nurturing collaboration.
 
 <div style="text-align: center;">
-    <img src="include/images/exhibit1.JPG" width="720px" title="OpenGL 3D Visualization C++ Code" />
+    <img src="include/images/exhibit1.JPG" width="480px" title="OpenGL 3D Visualization C++ Code" />
     <p><em>Figure 1 - OpenGL 3D Visualization C++ Code Snippet</em></p>
 </div>
 
@@ -283,7 +283,7 @@ To reflect on the enhancement process of the artifact, I reinforced my knowledge
 <br/>
 
 <img id="databases" src="include/images/databases.jpg" alt="Databases" title="Databases" /> </br>
-
+--------
 
 The artifact selected for the databases category is the Grazioso Salvare Animal Shelter Search Dashboard. This web application was designed for my computer science course, CS-340: Client/Server Development.  This web application is used with an existing database from animal shelters to categorize different animals (cats and dogs) by various and multiple factors. The application is developed in Python with Dash framework and with MongoDB, using PyMongo. This project best displays my knowledge with databases and how to utilize them. The project was originally developed on the Apporto platform, a virtual Linux system for student access. I enhanced this project by recreating it and using it on my own local machine running Windows Operating System.
 
@@ -291,7 +291,7 @@ The artifact was selected because it involves the development of a multi-tiered 
 
 
 <div style="text-align: center;">
-    <img src="include/images/webapp.jpg" width="800px" title="Web App Client/Database" />
+    <img src="include/images/webapp.jpg" width="520px" title="Web App Client/Database" />
     <p><em>Figure 7 - Grazioso Salvare Web App Client/Database Dashboard </em></p>
 </div>
 
@@ -299,7 +299,7 @@ The artifact was selected because it involves the development of a multi-tiered 
 The artifact involves validating input data and data structure when accessing database records. The source code is clearly and effectively documented, following coding best practices. It is easy to read and maintain, following the Python standards. The created CRUD module is imported by other Python scripts showing its reusability. 
  
 <div style="text-align: center;">
-    <img src="include/images/crud1.jpg" width="800px" title="Web App Client/Database" />
+    <img src="include/images/crud1.jpg" width="480px" title="Web App Client/Database" />
     <p><em>Figure 8 - CRUD Module Code </em></p>
 </div>
 
@@ -308,7 +308,7 @@ The implemented data structure solves the given problem using algorithmic princi
 The artifacts enhancements were successful. It aimed to recreate the web application in Windows Operating System environment. The process was challenging because the application was initially developed and ran on a Linux Environment. This meant I had to start from scratch, installing and setting up each driver and tool. I did struggle with getting the pie chart and map to display due to a callback issue, but was able to solve my issue and get the application running smoothly. The setup process and the code updates because of updated drivers and software show my ability to use well- founded and innovative techniques, skills, and tools in computing practices to implement computer solutions that deliver value and accomplish industry-specific goals. 
  
  <div style="text-align: center;">
-    <img src="include/images/webappy.jpg" width="800px" title="Web App Client/Database" />
+    <img src="include/images/webappy.jpg" width="480px" title="Web App Client/Database" />
     <p><em>Figure 9 - Dashboard App Python Code </em></p>
 </div>
 
