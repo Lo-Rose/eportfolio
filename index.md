@@ -81,7 +81,7 @@ Throughout the program, I learned and improved many valuable skills that make me
     </a>
 </div>
 
-#### Course Specifics and Portfolio Considerations
+### Course Specifics and Portfolio Considerations
 
 In each course throughout the Computer Science program, I have acquired the knowledge and skills necessary for me to excel in any job in the related field. While I was already experienced in the field prior to my coursework, each course had a substantial impact on me and my knowledgebase. I not only strengthened my current skills but learned many new skills and specifics to security and coding best practices/standards. Ultimately, I am now able to incorporate what I have learned and improved on into my selected and non-selected artifacts, where all of my skills learned from the courses are demonstrated and showcased. 
 
@@ -137,7 +137,7 @@ The course artifacts chosen for the code review and showcased for the key catego
     </a>
 </div>
 
-#### Looking to the Future
+### Looking to the Future
 
 The Computer Science program at SNHU has helped me flourish and strive for greatness as a professional in the field. It has prepared me for a fulfilling career where I can make a solid contribution wherever I go. Looking at my well-developed ePortfolio, displaying my many academic achievements, I am happy to say I have completed my best work and I could not be more proud of myself.
 
