@@ -291,7 +291,7 @@ The artifact was selected because it involves the development of a multi-tiered 
 
 
 <div style="text-align: center;">
-    <img src="include/images/webbapp.jpg" width="800px" title="Web App Client/Database" />
+    <img src="include/images/webapp.jpg" width="800px" title="Web App Client/Database" />
     <p><em>Figure 7 - Grazioso Salvare Web App Client/Database Dashboard </em></p>
 </div>
 
