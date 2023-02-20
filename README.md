@@ -57,7 +57,7 @@ This paper is an initial plan describing how I will meet the ePortfolio requirem
 
 ### Software Design and Engineering Enhancement
 
-<a href="https://github.com/lo-rose/ePortfolio/blob/main/enhancement/CS499/EnhancementOne.pdf" target="_blank">Software Design and Engineering Enhancement</a>
+<a href="https://github.com/lo-rose/ePortfolio/blob/main/CS499/EnhancementOne.pdf" target="_blank">Software Design and Engineering Enhancement</a>
 
 This paper is a narrative that accompanies the artifact for Software Design and Engineering and details why this artifact was included in my ePortfolio. It reflects on the approach used to create the artifact and focuses on the learning process that occurred thorough out the creation of it.
 
