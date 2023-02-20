@@ -52,13 +52,9 @@ This paper is an initial plan describing how I will meet the ePortfolio requirem
 
 ### Code Review
 
-Code Review Part 1
+<a href="https://www.youtube.com/embed/MPRjPozSNDI" target="_blank">Code Review: Part One</a>
 
-<iframe src="https://www.youtube.com/embed/MPRjPozSNDI" title="Code Review Part 1" frameborder="0" allowfullscreen allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" style="position: absolute; width: 100%; height: 100%;"> </iframe>
-
-Code Review Part 2
-
-<iframe src="https://www.youtube.com/embed/bVXsJAzRMOo" title="Code Review Part 2" frameborder="0" allowfullscreen allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" style="position: absolute; width: 100%; height: 100%;"> </iframe>
+<a href="https://www.youtube.com/embed/bVXsJAzRMOo" target="_blank">Code Review: Part Two</a>
 
 
 ### Software Design and Engineering Enhancement
