@@ -6,7 +6,7 @@
 </div>
 
 ---
-<a href="https://github.com/lo-rose/ePortfolio/main/enhancement/CS340/portfolioselection.docx" target="_blank">Portfolio Selection and Refinement Plan: Document</a>
+<a href="https://github.com/lo-rose/ePortfolio/blob/main/CS499/portfolioselection.docx" target="_blank">Portfolio Selection and Refinement Plan: Document</a>
 
 This is my plan to fulfill the requirements for my ePortfolio by using previous coursework I have completed in the past and looking for ways to enhance it. I will demonstrate my skills in the three categories for Computer Science: Software Design/Engineering, Algorithms and Data Structures, and Databases.
 
