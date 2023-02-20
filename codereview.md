@@ -1,19 +1,8 @@
-
-##  Welcome
+---
+layout: default
 ---
 
-
-
-### Table of Contents
 ---
-
-
-1. Code Review
-
-
-
-
-
 ### Code Review Videos Link
 ---
 
