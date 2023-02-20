@@ -2,7 +2,7 @@
 ### Refinement Plan
 ---
 <div style="text-align: center;">
-    <a href="https://lo-rose.github.io/ePortfolio" title="ePortfolio Home Page"><img src="https://img.shields.io/badge/Home-ePortfolio-purple.svg?style=for-the-badge&logo=homeassistant" /></a>
+    <a href="https://lo-rose.github.io/eportfolio" title="ePortfolio Home Page"><img src="https://img.shields.io/badge/Home-ePortfolio-purple.svg?style=for-the-badge&logo=homeassistant" /></a>
 </div>
 
 ---
