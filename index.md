@@ -1,4 +1,4 @@
-[![Ask Me Anything](https://img.shields.io/badge/Ask_me!-anything-purple.svg?style=for-the-badge&logo=gmail)](mailto:laurenroselindhurst@gmail.com "I look forward to hearing from you!")&nbsp;&nbsp;<a id="top" href="https://github.com/Lo-Rose/eportfolio/blob/main/awards.md" title="Academic Achievements" target="_blank"><img src="https://img.shields.io/badge/Awards-Lauren_Lindhurst-hotpink.svg?style=for-the-badge&logo=lit" /></a>&nbsp;&nbsp;![GitHub Last Commit](https://img.shields.io/github/last-commit/lo-rose/ePortfolio?style=for-the-badge&logo=github "ePortfolio Last Commit")
+[![Ask Me Anything](https://img.shields.io/badge/Ask_me!-anything-purple.svg?style=for-the-badge&logo=gmail)](mailto:laurenroselindhurst@gmail.com "I look forward to hearing from you!")&nbsp;&nbsp;<a id="top" href="https://lo-rose.github.io/eportfolio/awards" title="Academic Achievements" target="_blank"><img src="https://img.shields.io/badge/Awards-Lauren_Lindhurst-hotpink.svg?style=for-the-badge&logo=lit" /></a>&nbsp;&nbsp;![GitHub Last Commit](https://img.shields.io/github/last-commit/lo-rose/ePortfolio?style=for-the-badge&logo=github "ePortfolio Last Commit")
 
 ## Welcome
 
