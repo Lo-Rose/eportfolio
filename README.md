@@ -23,26 +23,24 @@ This repository contains my files and documents for development of my ePortfolio
 
 ### Course Journals
 
-[Journal: Self-Introduction](CS499/Journal_Self_Introduction_Lindhurst.pdf "Journal: Self-Introduction")
+<a href="https://github.com/lo-rose/ePortfolio/blob/main/CS499/Journal_Self_Introduction_Lindhurst.pdf" target="_blank">Journal: Self Introduction</a>
 
+<a href="https://github.com/lo-rose/ePortfolio/blob/main/CS499/Journal_Two.pdf" target="_blank">Journal: Productive Code Review</a>
 
-[Journal: Productive Code Review](CS499/Journal_Two.pdf "Journal: Productive Code Review")
+<a href="https://github.com/lo-rose/ePortfolio/blob/main/CS499/Journal_Three.pdf" target="_blank">Journal: Makreting with ePortfolios</a>
 
+<a href="https://github.com/lo-rose/ePortfolio/blob/main/CS499/Journal_Four.pdf" target="_blank">Journal: Career Choice</a>
 
-[Journal: Marketing with ePortfolios](CS499/Journal_Three.pdf "Journal: Marketing with ePortfolios")
+<a href="https://github.com/lo-rose/ePortfolio/blob/main/CS499/Journal_Five.pdf" target="_blank">Journal: Computer Science Trends</a>
 
+<a href="https://github.com/lo-rose/ePortfolio/blob/main/CS499/Journal_Six.pdf" target="_blank">Journal: Emerging Technologies</a>
 
-[Journal: Career Choice](CS499/Journal_Four.pdf "Journal: Career Choice")
+<a href="https://github.com/lo-rose/ePortfolio/blob/main/CS499/Final_Submission.pdf" target="_blank">Journal: Capstone Professional Assessment</a>
 
-[Journal: Computer Science Trends](CS499/Journal_Five.pdf "Journal: Computer Science Trends")
-
-[Journal: Emerging Technology](CS499/Journal_Six.pdf "Journal: Emerging Technology")
-
-[Journal: Capstone Professional Reflection](CS499/FinalSubmission.pdf "Journal: Final Submission")
 
 ### ePortfolio Selection and Software Design Document
 
-[ePortfolio Selection and Refinement Plan](CS499/portfolio_Selection.pdf "ePortfolio Selection and Refinement Plan")<br/>
+<a href="https://github.com/lo-rose/ePortfolio/blob/main/CS499/Portfolio_Selection.pdf" target="_blank">ePortfolio Selection and Refinement Plan</a>
 
 This paper is an initial plan describing how I will meet the ePortfolio requirements. While the plan is only a rough draft, it layouts out my selected artifacts and what I aim to accomplish this course. This plan elaborates on my goals to produce an ePortfolio that showcases my skills across the key categories of computer science:
 
@@ -59,19 +57,22 @@ This paper is an initial plan describing how I will meet the ePortfolio requirem
 
 ### Software Design and Engineering Enhancement
 
-[Software Design and Engineering Narrative](CS499/EnhancementOne.pdf "Software Design and Engineering Enhancement")
+<a href="https://github.com/lo-rose/ePortfolio/blob/main/enhancement/CS499/EnhancementOne.pdf" target="_blank">Software Design and Engineering Enhancement</a>
 
 This paper is a narrative that accompanies the artifact for Software Design and Engineering and details why this artifact was included in my ePortfolio. It reflects on the approach used to create the artifact and focuses on the learning process that occurred thorough out the creation of it.
 
 ### Algorithms and Data Structure Enhancement
 
-[Algorithms and Data Structures Narrative](CS499/EnhancementTwo.pdf "Algorithms and Data Structures Enhancement")
+<a href="https://github.com/lo-rose/ePortfolio/blob/main/CS499/EnhancementTwo.pdf" target="_blank">Algorithms and Data Structures Enhancement</a>
+
 
 This paper is a narrative that accompanies the artifact for Algorithms and Data Structures and details why this artifact was included in my ePortfolio. It reflects on the approach used to create the artifact and focuses on the learning process that occurred thorough out the creation of it.
 
 ### Databases Enhancement
 
 [Databases Narrative](CS499/EnhancementThree.pdf "Databases Enhancement")
+<a href="https://github.com/lo-rose/ePortfolio/blob/main/CS499/EnhancementThree.pdf" target="_blank">Databases Enhancement</a>
+
 
 This paper is a narrative that accompanies the artifact for the Databases category and details why this artifact was included in my ePortfolio. It reflects on the approach used to create the artifact and focuses on the learning process that occurred thorough out the creation of it.
 
