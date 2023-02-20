@@ -283,7 +283,7 @@ To reflect on the enhancement process of the artifact, I reinforced my knowledge
 
 <br/>
 
-<img id="databases" src="include/images/databases.jpg" alt="Databases" title="Databases" /> </br>
+<img id="databases" src="include/images/databases.jpg" alt="Databases" title="Databases" />
 --------
 
 The artifact selected for the databases category is the Grazioso Salvare Animal Shelter Search Dashboard. This web application was designed for my computer science course, CS-340: Client/Server Development.  This web application is used with an existing database from animal shelters to categorize different animals (cats and dogs) by various and multiple factors. The application is developed in Python with Dash framework and with MongoDB, using PyMongo. This project best displays my knowledge with databases and how to utilize them. The project was originally developed on the Apporto platform, a virtual Linux system for student access. I enhanced this project by recreating it and using it on my own local machine running Windows Operating System.
