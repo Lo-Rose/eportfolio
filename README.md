@@ -21,13 +21,14 @@ This repository contains my files and documents for development of my ePortfolio
 
 ---
 
+
 ### Course Journals
 
-<a href="https://github.com/lo-rose/ePortfolio/blob/main/CS499/Journal_Self_Introduction_Lindhurst.pdf" target="_blank">Journal: Self Introduction</a>
+<a href="https://github.com/Lo-Rose/ePortfolio/blob/main/CS499/Journal_Self_Introduction_Lindhurst.pdf" target="_blank">Journal: Self Introduction</a>
 
-<a href="https://github.com/lo-rose/ePortfolio/blob/main/CS499/Journal_Two.pdf" target="_blank">Journal: Productive Code Review</a>
+<a href="https://github.com/Lo-Rose/ePortfolio/blob/main/CS499/Journal_Two.pdf" target="_blank">Journal: Productive Code Review</a>
 
-<a href="https://github.com/lo-rose/ePortfolio/blob/main/CS499/Journal_Three.pdf" target="_blank">Journal: Makreting with ePortfolios</a>
+<a href="https://github.com/Lo-Rose/ePortfolio/blob/main/CS499/Journal_Three.pdf" target="_blank">Journal: Makreting with ePortfolios</a>
 
 <a href="https://github.com/lo-rose/ePortfolio/blob/main/CS499/Journal_Four.pdf" target="_blank">Journal: Career Choice</a>
 
@@ -71,7 +72,7 @@ This paper is a narrative that accompanies the artifact for Algorithms and Data 
 ### Databases Enhancement
 
 [Databases Narrative](CS499/EnhancementThree.pdf "Databases Enhancement")
-<a href="https://github.com/lo-rose/ePortfolio/blob/main/CS499/EnhancementThree.pdf" target="_blank">Databases Enhancement</a>
+<a href="https://github.com/Lo-Rose/eportfolio/blob/main/CS499/EnhancementThree.pdf" target="_blank">Databases Enhancement</a>
 
 
 This paper is a narrative that accompanies the artifact for the Databases category and details why this artifact was included in my ePortfolio. It reflects on the approach used to create the artifact and focuses on the learning process that occurred thorough out the creation of it.
