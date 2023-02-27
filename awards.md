@@ -9,7 +9,6 @@
 
 This pages showcases my multiple academic achievements throughout my Computer Science program at Southern New Hampshire University.
 
-
 <div id="honors-awards" style="margin: 120px 0; font-family: 'Calibri';">
 	<h2>SNHU Merit Page</h2>
 	<p><a href="https://meritpages.com/Lauren-Rose" target="_blank"><img src="./include/images/Merit_Logo.jpg" title="My Merit Page" alt="Merit Page Logo" width="85" /></a></p>
